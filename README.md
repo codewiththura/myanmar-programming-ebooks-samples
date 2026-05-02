@@ -20,11 +20,11 @@ Welcome to the **Code with Thura** resource hub. This repository provides free s
 <a name="samples"></a>
 ## 📖 Available eBook Samples (စာအုပ်စာရင်း)
 
-| Title (စာအုပ်အမည်) | Description (အကြောင်းအရာ) | Format |
-| :--- | :--- | :--- |
-| **Docker for Absolute Beginner** | Learn containerization in Burmese. | PDF / Code |
-| **Python Programming** | Basics to advanced Python concepts. | PDF / Code |
-| **Data Structures for Beginner** | Master foundational CS concepts. | PDF / Code |
+| Title (စာအုပ်အမည်) | Description (အကြောင်းအရာ) | Format | Download Link |
+| :--- | :--- | :--- | :--- |
+| **Docker for Absolute Beginner** | Learn containerization in Burmese. | PDF / Code | [Download PDF](https://raw.githubusercontent.com/codewiththura/myanmar-programming-ebooks-samples/main/Docker%20Myanmar%20-%20Sample.pdf) |
+| **Python Programming** | Basics to advanced Python concepts. | PDF / Code | [Download PDF](https://raw.githubusercontent.com/codewiththura/myanmar-programming-ebooks-samples/main/ကိုယ်တိုင်လေ့လာ_Programmer_Sample.pdf) |
+| **Data Structures for Beginner** | Master foundational CS concepts. | PDF / Code | [Download PDF](https://raw.githubusercontent.com/codewiththura/myanmar-programming-ebooks-samples/main/Data%20Structure%20For%20Beginner%20-%20Sample_compressed.pdf) |
 
 ---
 
@@ -95,6 +95,8 @@ Stay updated with new eBook releases and daily 60-second tech tutorials.
 
 *   **Website:** [codewiththura.com](https://codewiththura.com)
 *   **Facebook:** [Code with Thura](https://facebook.com/codewiththura)
+*   **Telegram:** [Join our Channel](https://t.me/codewiththura) — *Stay updated via Telegram.*
+*   **Telegram:** [Contact Admin ](https://t.me/codewiththura_admin) — *DM via CodewithThura Admin.*
 *   **TikTok:** [@codewiththura](https://tiktok.com/@codewiththura) — *Quick tech tips in 50-60 seconds.*
 
 ---
