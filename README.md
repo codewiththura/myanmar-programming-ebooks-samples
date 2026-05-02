@@ -83,7 +83,7 @@ Master the foundational logic required to pass technical interviews and write hi
 2.  **Preview:** Click on any `.pdf` file to view sample chapters directly in your browser.
 3.  **Clone:** Clone the repository to experiment with the source code examples locally:
     ```bash
-    git clone [https://github.com/your-username/myanmar-programming-ebooks-samples.git](https://github.com/your-username/myanmar-programming-ebooks-samples.git)
+    git clone https://github.com/codewiththura/myanmar-programming-ebooks-samples.git
     ```
 
 ---
